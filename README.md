@@ -17,8 +17,7 @@
 - 🧱 Sou Desenvolvedor (Iniciante) De Plugins PocketMine Api 2.0.0
 
 
-### 🧢 Staff do Servidor Fuzivel 
-### (Minecraft PE 0.14.3)
+### 🧢 Staff do Servidor Fuzivel (Minecraft PE 0.14.3)
 
 <img align='right' 
 src="https://raw.githubusercontent.com/gusta7w7/gusta7w7/main/Screenshot_20240303_181249_Minecraft%20-%20Pocket%20Edition.png" alt="Fuzivel"/>
