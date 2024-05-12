@@ -16,6 +16,8 @@
 </div>
 
 - 🧱 Sou Desenvolvedor (Iniciante) De Plugins PocketMine Api 2.0.0
+- 💫 Começando a Criar Um Novo Servidor Para Mcpe 0.14.x
+- 💫 Começando a Usar Nukkit.
 
 
 ### 🧢 Staff do Servidor Fuzivel (Minecraft PE 0.14.3)
@@ -52,7 +54,7 @@ Onde me encontrar?
 
 <div align="left">
   <a href="https://youtube.com/@abelha7w7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Meu Canal&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=style=flat&logo=youtube" height="22" alt="youtube logo"  />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="22" alt="youtube logo"  />
   </a>
 </div>
 
