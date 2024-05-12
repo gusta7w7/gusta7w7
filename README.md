@@ -12,11 +12,10 @@
 
 ## Curiosidade
 
-<img align='center' src="https://raw.githubusercontent.com/pmmp/PocketMine-MP/stable/.github/readme/pocketmine-dark-rgb.gif" alt="languages graph" height="30" />
-</div>
-
 - 🧱 Sou Desenvolvedor (Iniciante) De Plugins PocketMine Api 2.0.0
+  
 - 💫 Começando a Criar Um Novo Servidor Para Mcpe 0.14.x
+  
 - 💫 Começando a Usar Nukkit.
 
 
@@ -30,27 +29,21 @@ src="https://raw.githubusercontent.com/gusta7w7/gusta7w7/main/Screenshot_2024030
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
-## Screenshot Do Servidor Tirada Usando Dispositivo
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-## Minhas Skills
-
-**🌱 Linguagem Que Estou Aprendendo**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+ ## :star: Linguagens nas quais tenho conhecimento :star: ## 
+ 
+| ~ Lista ~ |
+| --- |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
   
+ ## Software de Servidores de Minecraft PE Que Eu Amo!! ## 
 
-**Recursos Que Utilizo**
+<img align='center' src="https://raw.githubusercontent.com/pmmp/PocketMine-MP/stable/.github/readme/pocketmine-dark-rgb.gif" alt="languages graph" height="30" />
+</div>
 
-![Git](https://img.shields.io/badge/-Git-333333?tyle=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?tyle=for-the-badge&logo=github&logoColor=white)
+<img align='center' src="https://raw.githubusercontent.com/CloudburstMC/Nukkit/master/.github/images/banner.png" alt="languages graph" height="70" />
+</div>
 
-Onde me encontrar?
-===
+## 💫 Canal do Youtube ## 
 
 <div align="left">
   <a href="https://youtube.com/@abelha7w7" target="_blank">
@@ -58,19 +51,17 @@ Onde me encontrar?
   </a>
 </div>
 
-<div align="left">
-  <a href="https://github.com/gusta7w7" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" height="22" alt="youtube logo"  />
-  </a>
-</div>
+## 💫 Contato Via Discord ## 
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-## Meu discord:
+| ~        Discord      ~  |
+| -------------------------                      |
+| `@abelha7w7` |
 
-`@abelha7w7`
+## :white_check_mark: Status ##
+
+[![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gusta7w7&theme=solarized_dark)](#)
 
 <br/>
-
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=gusta7w7&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gusta7w7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
