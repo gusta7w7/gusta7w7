@@ -39,7 +39,7 @@ src="https://raw.githubusercontent.com/gusta7w7/gusta7w7/main/Screenshot_2024030
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql&logoColor=white)
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   
 
 **Recursos Que Utilizo**
@@ -47,7 +47,7 @@ src="https://raw.githubusercontent.com/gusta7w7/gusta7w7/main/Screenshot_2024030
 ![Git](https://img.shields.io/badge/-Git-333333?tyle=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?tyle=for-the-badge&logo=github&logoColor=white)
 
-Onde me encontrar
+Onde me encontrar?
 ===
 
 <div align="left">
