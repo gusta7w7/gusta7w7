@@ -1,61 +1,55 @@
-# 🐝 Olá, meu nome é **Sr. Abelha!** 🍯
+# 🐝 Sr abelha | Entusiasta de Tecnologia 🍯
 
-<img src="https://img.shields.io/static/v1?label=Perfil&message=Sr%20Abelha&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Perfil&message=Sr%20Abelha&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Perfil GitHub">
 ![](https://komarev.com/ghpvc/?username=gusta7w7&color=006bed)
 
 ---
 
-## 📌 Sobre mim
+## 👨‍💻 Sobre mim
 
-- 📹 **Tenho um canal no YouTube, mas tenho preguiça de postar vídeos!**
-- 🌱 **Atualmente aprendendo mais sobre Python e PHP.**
-
----
-
-## 🎯 Curiosidades
-
-- 🧱 **Desenvolvedor (iniciante) de plugins para PocketMine API 2.0.0.**
-- 💫 **Criando um novo servidor para MCPE 0.14.x.**
-- 🔧 **Explorando o uso do Nukkit.**
-
-### 🧢 **Staff do Servidor Fuzivel (Minecraft PE 0.14.3)**
-
-[![](https://dcbadge.vercel.app/api/server/hHUDgKCGXP?style=flat)](https://discord.gg/hHUDgKCGXP)
-
-<img align="right" src="https://raw.githubusercontent.com/gusta7w7/gusta7w7/main/Screenshot_20240303_181249_Minecraft%20-%20Pocket%20Edition.png" alt="Fuzivel" width="300"/>
+Sou um entusiasta, explorando constantemente novas tecnologias e aprimorando minhas habilidades no mundo da programação. Tenho experiência no desenvolvimento de **plugins para PocketMine**, e atualmente estou expandindo meus conhecimentos em **MiNET, Nukkit e a linguagem C#**.
 
 ---
 
-## 🌟 Tecnologias que utilizo
+## 🚀 Áreas de Interesse
+
+- Desenvolvimento de **servidores para Minecraft PE** (PocketMine-MP, Nukkit, MiNET).
+- Programação com **PHP e Python**.
+- Exploração e aprendizado de **C# para novas possibilidades de desenvolvimento**.
+- Criação e otimização de **sistemas para servidores de jogos**.
+
+---
+
+## 🎯 Tecnologias e Ferramentas
 
 | **Linguagens** |
 | :---: |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) |
 
----
-
-## 🎮 Softwares de servidores de Minecraft PE que eu adoro!
-
-<img src="https://raw.githubusercontent.com/pmmp/PocketMine-MP/stable/.github/readme/pocketmine-dark-rgb.gif" alt="PocketMine-MP" height="40"/>
-<img src="https://raw.githubusercontent.com/CloudburstMC/Nukkit/master/.github/images/banner.png" alt="Nukkit" height="80"/>
-
----
-
-## 🎥 Meu canal no YouTube
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@abelha7w7)
-
----
-
-## 📬 Contato
-
-| **Discord** |
+| **Servidores e APIs** |
 | :---: |
-| `@abelha7w7` |
+| ![PocketMine-MP](https://img.shields.io/badge/PocketMine-MP-1E90FF?style=for-the-badge&logo=minecraft&logoColor=white) ![Nukkit](https://img.shields.io/badge/Nukkit-32CD32?style=for-the-badge&logo=minecraft&logoColor=white) ![MiNET](https://img.shields.io/badge/MiNET-FFD700?style=for-the-badge&logo=minecraft&logoColor=white) |
 
 ---
 
-## 📊 Status
+## 🎮 Projetos Atuais
+
+- **Desenvolvimento de um servidor para Minecraft PE (0.14.x)**.
+- **Exploração do MiNET e suas possibilidades**.
+- **Criação de plugins personalizados para PocketMine API 2.0.0 e Nukkit**.
+
+---
+
+## 📡 Redes e Contato
+
+| **Plataforma** | **Link** |
+|:-------------:|:--------------------------------:|
+| 📹 **YouTube** | [@abelha7w7](https://youtube.com/@abelha7w7) |
+| 💬 **Discord** | `@abelha7w7` |
+
+---
+
+## 📊 Estatísticas GitHub
 
 [![Resumo do Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gusta7w7&theme=solarized_dark)](#)
 
