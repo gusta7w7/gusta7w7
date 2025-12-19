@@ -4,45 +4,6 @@
 
 ![](https://komarev.com/ghpvc/?username=gusta7w7&color=006bed)
 
-## Sobre mim
-
-- 📹 Tenho Canal do Youtube Mas Tenho Preguiça de Postar Video.
-
-- 🌱 Aprendendo mais sobre Python e PHP.
-
-## Curiosidade
-
-- 🧱 Sou Desenvolvedor (Iniciante) De Plugins PocketMine Api 2.0.0
-  
-- 💫 Começando a Criar Um Novo Servidor Para Mcpe 0.14.x
-  
-- 💫 Começando a Usar Nukkit.
-
-
-### 🧢 Staff do Servidor Fuzivel (Minecraft PE 0.14.3)
-
-[![](https://dcbadge.vercel.app/api/server/hHUDgKCGXP?style=flat)](https://discord.gg/hHUDgKCGXP)
-
-<img align='right' 
-src="https://raw.githubusercontent.com/gusta7w7/gusta7w7/main/Screenshot_20240303_181249_Minecraft%20-%20Pocket%20Edition.png" alt="Fuzivel"/>
-</div>  
-
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-
- ## :star: Linguagens nas quais tenho conhecimento :star: ## 
- 
-| ~ Lista ~ |
-| --- |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-  
- ## Software de Servidores de Minecraft PE Que Eu Amo!! ## 
-
-<img align='center' src="https://raw.githubusercontent.com/pmmp/PocketMine-MP/stable/.github/readme/pocketmine-dark-rgb.gif" alt="languages graph" height="30" />
-</div>
-
-<img align='center' src="https://raw.githubusercontent.com/CloudburstMC/Nukkit/master/.github/images/banner.png" alt="languages graph" height="70" />
-</div>
-
 ## 💫 Canal do Youtube ## 
 
 <div align="left">
